@@ -31,5 +31,6 @@ An interactive desktop GUI application built with Java Swing to visualize popula
    cd java-sorting-visualizer
 
 2. Compile and run:
+   ```bash
       javac MySortingApp.java
       java MySortingApp
